@@ -1,20 +1,13 @@
 * Spring 2023 - Lab 03
 
-* Last name:
+* Last name: Chaudhry
 
-* First name:
+* First name:Muhammad
 
-* GitHub username:
+* GitHub username: MuhammadC11
 
 * Notes:
 
-
-
-* General instructions:
-- Fill in your name and GitHub username on top.
-- Use the Notes section to add any notes to the instructor.
-- The main lab description can be found here:
-  https://maryash.github.io/135/labs/lab_03.html
 
 
 * Specific instructions for lab 03
